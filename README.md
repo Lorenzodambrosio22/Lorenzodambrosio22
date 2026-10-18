@@ -27,7 +27,7 @@
 
 <br>
 
-**How I work.** I start from how the people who'll use the product actually work, write the spec, and develop with AI coding agents (Claude Code, Codex, Gemini), with tests on the parts that can't break. Then I stay on after launch.
+**How I work.** I start from how the people who'll use the product actually work, write the spec, and develop with AI coding agents, with tests on the parts that can't break. Then I stay on after launch.
 
 Computer Engineering at Politecnico di Torino. Client code stays private; I'm happy to walk you through any of it.
 
