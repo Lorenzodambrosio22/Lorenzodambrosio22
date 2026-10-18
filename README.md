@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/Lorenzodambrosio22/a-tavola"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/atavola-dark.png"><img alt="A Tavola: open-source AI meal planner" src="assets/atavola-light.png" width="49%"></picture></a>
-  <a href="https://trama.lorenzo-dambrosio-2004.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trama-dark.png"><img alt="Mood Dresser: your wardrobe, an outfit every morning" src="assets/trama-light.png" width="49%"></picture></a>
+  <a href="https://mooddresser.lorenzodambrosio.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trama-dark.png"><img alt="Mood Dresser: your wardrobe, an outfit every morning" src="assets/trama-light.png" width="49%"></picture></a>
 </p>
 <p>
   <a href="https://github.com/Lorenzodambrosio22/faro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/faro-dark.png"><img alt="Faro: internal tool that finds local businesses that need a website" src="assets/faro-light.png" width="49%"></picture></a>
