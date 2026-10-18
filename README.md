@@ -1,20 +1,34 @@
-### Hi, I'm Lorenzo 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Lorenzo D'Ambrosio. I design and ship websites, internal tools and AI automations for real businesses." src="assets/banner-light.png">
+</picture>
 
-Computer Engineering student at **Politecnico di Torino**. I design and ship web products and AI automations for real clients, working AI-native with Claude Code.
+<p align="center">
+  <samp>
+    <a href="https://lorenzodambrosio.com">lorenzodambrosio.com</a> ·
+    <a href="https://www.linkedin.com/in/lorenzo-dambrosio">linkedin</a> ·
+    <a href="mailto:lorenzo.dambrosio.2004@gmail.com">email</a>
+  </samp>
+</p>
 
-🌐 **Portfolio and client work → [lorenzodambrosio.com](https://lorenzodambrosio.com)**
+<br>
 
-#### Live work
-| Project | What it does |
-|---|---|
-| [Dott. Libero Tubino](https://dottortubino.com) | ENT doctor's site: visit booking and a content panel the doctor edits himself |
-| [La finestra di Roma](https://lafinestradiroma.com) | Short-stay apartment by the Pantheon: 5 languages, direct booking without the big platforms |
-| [Fate Veloci](https://fateveloci.it) | Real-estate site with a back office: listings go live as soon as they are uploaded |
-| [A Tavola](https://github.com/Lorenzodambrosio22/a-tavola) | Weekly meal plan built by AI around everyone's allergies and preferences, with a shopping list and a pantry that update themselves |
+<p>
+  <a href="https://github.com/Lorenzodambrosio22/a-tavola"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/atavola-dark.png"><img alt="A Tavola: open-source AI meal planner" src="assets/atavola-light.png" width="49%"></picture></a>
+  <a href="https://trama.lorenzo-dambrosio-2004.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trama-dark.png"><img alt="Mood Dresser: your wardrobe, an outfit every morning" src="assets/trama-light.png" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/Lorenzodambrosio22/faro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/faro-dark.png"><img alt="Faro: internal tool that finds local businesses that need a website" src="assets/faro-light.png" width="49%"></picture></a>
+  <a href="https://github.com/Lorenzodambrosio22/vero"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vero-dark.png"><img alt="Vero: bank reconciliation for accounting firms, discontinued" src="assets/vero-light.png" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://lorenzodambrosio.com/lavori"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/clients-dark.png"><img alt="Client websites, on lorenzodambrosio.com" src="assets/clients-light.png" width="98.6%"></picture></a>
+</p>
 
-Client code stays private. Happy to walk you through any of it on a call.
+<br>
 
-#### Stack I work with
-TypeScript · React · Next.js · Cloudflare Workers + D1 · Supabase / Postgres · Python · FastAPI · Claude API · Java
+**How I work.** I start from how the people who'll use the product actually work, write the spec, and develop with Claude Code, with tests on the parts that can't break. Then I stay on after launch.
 
-📫 [LinkedIn](https://www.linkedin.com/in/lorenzo-dambrosio) · lorenzo.dambrosio.2004@gmail.com
+Computer Engineering at Politecnico di Torino. Client code stays private; I'm happy to walk you through any of it.
+
+<samp>TypeScript · React · Next.js · Cloudflare Workers · Supabase · Python · FastAPI · Claude API</samp>
